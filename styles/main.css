@@ -1,8 +1,9 @@
 body {
-  font-size: 140%;
+  font-size: 150%;
   font-family: Calibri;
   padding-left: 5vh;
   padding-right: 5vh;
+  background-color: #ddd;
 }
 
 h1 {
@@ -19,6 +20,11 @@ h4 {
 
 a {
   text-decoration: none;
+  transition: color 200ms linear;
+  color:#a20;
+}
+a:hover {
+  color:#814;
 }
 
 .subject-box {
