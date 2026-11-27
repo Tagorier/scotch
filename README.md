@@ -1,1 +1,2 @@
-Un site pour le concours de mathématiques en ligne : Le Scotch.
+Un site pour le concours de mathématiques en live : Le Scotch.
+Lien du site : https://tagorier.github.io/scotch/index.html
